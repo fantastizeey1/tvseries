@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tvseries/static/css/main.b03b63d5.css",
+    "main.js": "/tvseries/static/js/main.7edac5db.js",
+    "static/js/453.03c05655.chunk.js": "/tvseries/static/js/453.03c05655.chunk.js",
+    "static/media/Gear-0.2s-200px.gif": "/tvseries/static/media/Gear-0.2s-200px.6ea9215576ea1f9e97e1.gif",
+    "index.html": "/tvseries/index.html",
+    "main.b03b63d5.css.map": "/tvseries/static/css/main.b03b63d5.css.map",
+    "main.7edac5db.js.map": "/tvseries/static/js/main.7edac5db.js.map",
+    "453.03c05655.chunk.js.map": "/tvseries/static/js/453.03c05655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b03b63d5.css",
+    "static/js/main.7edac5db.js"
+  ]
+}
